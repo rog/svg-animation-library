@@ -1,0 +1,19 @@
+body {
+    background: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#logo{
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -200px;
+}
+#logo svg{
+    width: 100%;
+}
+
+#logo_1{
+    fill: #0f0;
+}
