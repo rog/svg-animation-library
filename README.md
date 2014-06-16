@@ -1,8 +1,10 @@
 svg-animation-library
 =====================
 
-A library to animate svg dash and fill.
+    (A library to animate svg dash and fill)
 
-$ git clone https://github.com/rogr/svg-animation-library && cd svg-animation-library
-$ npm install && bower install
-$ grunt serve
+.. code-block:: bash
+
+    $ git clone git://github.com/rogr/svg-animation-library && cd svg-animation-library
+    $ npm install && bower install
+    $ grunt serve
